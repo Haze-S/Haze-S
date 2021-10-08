@@ -1,26 +1,47 @@
+<div align="center"> 
+  
+  <h1> Hi there. I'm Haze. 👋 </h1>
+  <br/>
 
-### Hi there. I'm Haze. 👋
-<br/>
+  ![gif_b](https://user-images.githubusercontent.com/87344625/136505098-6bc020ad-b753-450c-b873-4e199d1e8746.gif)
 
-![gif](https://user-images.githubusercontent.com/87344625/136500923-9a137641-d6fa-48e2-8a8a-1df69c0b2ff3.gif)
+  <br/><br/>
 
+  ## :computer: Tech Stack 
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+  
+  ##### 🌱 I’m learning Web, React, TypeScript, Python, Java. :running:
+  
+  <br/><br/>
+  
+  ## Cowork tools :speech_balloon: 
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 
-<br/><br/><br/>
+  <br/><br/>
+  
+  ## :point_right: About me :point_left:
+  
+  <br/>
+  
+  <a href="mailto:skdml20022@gmail.com?subject=깃허브에서 보냅니다."><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/hj_haze/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://haze-92.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-111111?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
-<!-- - 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about  ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+  <br/><br/>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Haze-S/github-readme-stats)
+  ![Haze's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haze-S&theme=buefy&show_icons=true)
 
-### <center> :computer: Tech Stack :computer: </center>
-
-<br/>
-
-🌱 I’m learning Web, Javascript, Python, Java. :running:
-
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-
-![Haze's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haze-S&theme=buefy&show_icons=true)
+</div>
