@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![gif](https://user-images.githubusercontent.com/87344625/136500010-7712de57-19d9-4e5f-adbf-bd08d01f677f.gif)
+
+
 <!--
 **Haze-S/Haze-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
