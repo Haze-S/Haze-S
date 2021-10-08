@@ -6,7 +6,7 @@
 
 ###### I'm Haze.
 
-![Haze's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=buefy&show_icons=true)
+![Haze's GitHub stats](https://github-readme-stats.vercel.app/api?username=skdml20022&theme=buefy&show_icons=true)
 
 
 <!--
