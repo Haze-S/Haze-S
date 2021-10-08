@@ -1,6 +1,12 @@
-### Hi there 👋
 
 ![gif](https://user-images.githubusercontent.com/87344625/136500010-7712de57-19d9-4e5f-adbf-bd08d01f677f.gif)
+
+
+### Hi there 👋
+
+###### I'm Haze.
+
+![Haze's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=buefy&show_icons=true)
 
 
 <!--
