@@ -3,7 +3,8 @@
   <h1> Hi there. I'm Haze. 👋 </h1>
   <br/>
 
-  ![gif_b](https://user-images.githubusercontent.com/87344625/136505098-6bc020ad-b753-450c-b873-4e199d1e8746.gif)
+  ![gif_a](https://user-images.githubusercontent.com/87344625/136508461-6308c84c-9826-44a2-a523-f728ae51e253.gif)
+
 
   <br/><br/>
 
