@@ -19,7 +19,7 @@
   
   <a href="mailto:skdml20022@gmail.com?subject=깃허브에서 보냅니다."><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/hj_haze/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://haze-92.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-111111?style=flat-square&logo=Blogger&logoColor=white"/></a>
+  <a href="https://velog.io/@haze/" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
   <br/><br/>
   
