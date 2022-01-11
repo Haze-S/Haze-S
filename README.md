@@ -1,19 +1,9 @@
 <div align="center"> 
   
-  <h1> Hi there. I'm Haze. 👋 </h1>
-  <br/>
-
-  ![gif_a](https://user-images.githubusercontent.com/87344625/136508461-6308c84c-9826-44a2-a523-f728ae51e253.gif)
-
-
-  <br/><br/>
-
-  
-  ### 🌱 I’m learning ..... :running:
-  
+  <h1> 🌱 I’m learning ..... :running: </h1>
   <br/><br/>
   
-  ## :point_right: About me :point_left:
+  ### :point_right: About me :point_left:
   
   <br/>
   
