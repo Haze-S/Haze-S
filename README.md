@@ -1,7 +1,12 @@
 <div align="center"> 
   
   <h1> 🌱 I’m learning ..... :running: </h1>
-  <br/><br/>
+  <br/>
+  
+  ![도네움짤(소)](https://user-images.githubusercontent.com/87344625/149339527-0259cd01-bffb-46fa-bf5d-8b60d76c703d.gif)
+
+  
+  <br/>
   
   ### :point_right: About me :point_left:
   
@@ -13,7 +18,6 @@
 
   <br/><br/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Haze-S/github-readme-stats)
   ![Haze's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haze-S&theme=buefy&show_icons=true)
 
 </div>
